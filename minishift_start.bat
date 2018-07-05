@@ -1,0 +1,1 @@
+minishift start --hyperv-virtual-switch "External" --http-proxy http://10.8.0.25:1080
