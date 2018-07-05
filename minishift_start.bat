@@ -1,1 +1,1 @@
-minishift start --hyperv-virtual-switch "External" --http-proxy http://10.8.0.25:1080
+minishift start --hyperv-virtual-switch "External" --http-proxy http://10.8.0.25:1080 --https-proxy http://10.8.0.25:1080 --docker-env https_proxy=http://10.8.0.25:1080
