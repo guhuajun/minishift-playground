@@ -1,0 +1,1 @@
+minishift --profile home delete
